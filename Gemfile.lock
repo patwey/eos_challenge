@@ -241,6 +241,7 @@ DEPENDENCIES
   factory_girl_rails
   jbuilder (~> 2.0)
   jquery-rails
+  launchy
   pry-nav
   pry-rails
   pry-remote
