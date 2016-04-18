@@ -1,4 +1,8 @@
-#Rails Challenge
+# Sum of Fibonacci Squares
+
+This is my solution to a challenge proposed as part of an interview with Equal Opportunity Schools
+
+# The Challenge
 
 "As a user, I want to be able to see the sum of the squares of the Fibonacci numbers of the lengths of all User names for users that have a 'd' (or 'D') in their names so that I can see a large number."
 
